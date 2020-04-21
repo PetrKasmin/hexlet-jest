@@ -1,2 +1,2 @@
 # Jest
-Tests hexlet-jest
+npx jest
